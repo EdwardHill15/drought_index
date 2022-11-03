@@ -1,9 +1,9 @@
 ---
-title: "index.Rmd"
-author: "Edward Hill"
-date: "2022-11-03"
+title: "Consciousness as Predictor for Behaviour"
+author: "Edward Hillenaar"
 output: html_document
+email_address: totalegezondheidbv@gmail.com
+github_repo: https://github.com/EdwardHill15/drought_index
 ---
-hello world
 
 ![Graph1](https://raw.githubusercontent.com/EdwardHill15/Data/main/graphs/consciousness_as_predictor.png)
