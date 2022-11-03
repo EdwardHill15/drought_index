@@ -5,3 +5,5 @@ date: "2022-11-03"
 output: html_document
 ---
 hello world
+
+![Graph1](https://raw.githubusercontent.com/EdwardHill15/Data/main/graphs/consciousness_as_predictor.png)
